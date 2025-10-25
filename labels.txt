@@ -1,0 +1,5 @@
+0 Loamy Soil
+1 Sandy Soil
+2 Alluvial Soil
+3 Clayey Soil
+4 Laterite Soil
